@@ -1,0 +1,10 @@
+#!/bin/bash
+
+config-pin P8_16 pruin
+config-pin P8_27 pruin
+config-pin P8_28 pruin
+config-pin P8_29 pruin
+config-pin P8_30 pruin
+
+echo "Pins configured"
+
